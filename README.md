@@ -1,3 +1,3 @@
 # Personal Website
 
-http://arshsidhu.github.io/
+https://arshsidhu.github.io/
